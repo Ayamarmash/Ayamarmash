@@ -2,8 +2,9 @@
 
 
 
-- 🔭 I’m currently studying Software Engineering 
-- 👩‍💻 Student at [Recoded](https://www.re-coded.com) Frontend bootcamp 
+- Software Engineering Student at my fourth year.
+- Student at [Recoded](https://www.re-coded.com) Frontend bootcamp .
+- Looking for training opportunities in frontend development.
 
 
 [![](https://raw.githubusercontent.com/Ayamarmash/Ayamarmashh/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
