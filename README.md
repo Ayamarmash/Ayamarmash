@@ -4,7 +4,6 @@
 
 - Software Engineering Student at my fourth year
 - Student at [Recoded](https://www.re-coded.com) Frontend bootcamp 
-- Looking for Job or training opportunities in frontend development
 
    [Linkedin](https://www.linkedin.com/in/aya-marmash-b63294191/)
 
