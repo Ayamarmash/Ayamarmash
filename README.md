@@ -8,3 +8,4 @@
 - Email amarmash@outlook.com
 
    [Linkedin](https://www.linkedin.com/in/aya-marmash-b63294191/)
+   [CV](Aya-Marmash-FlowCV-Resume-20231221.pdf)
