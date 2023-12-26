@@ -1,5 +1,5 @@
 <h1> Hi There! 👋 </h1>
-  <img align="right" src="412449056_740976037473062_7978530350198860251_n.png" width="280"/>
+  <img align="right" src="2.png" width="280"/>
 <p>
   <ul>
     <li>Frontend Engineer 🖥️</li>
