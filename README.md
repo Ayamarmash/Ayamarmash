@@ -15,6 +15,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-AyaMarmash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayamarmash/)](https://www.linkedin.com/in/ayamarmash/)
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:amarmash@outlook.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Ayamarmash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayamarmash/)](https://www.linkedin.com/in/ayamarmash/)
+[![Email](https://img.shields.io/badge/amarmaash@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:amarmash@outlook.com)
 [![Resume](https://img.shields.io/badge/Resume-0078D4?style=flat-square&logo=pdf&logoColor=white)](Aya-Marmash-FlowCV-Resume-20231221.pdf)
