@@ -6,6 +6,7 @@
     <li>Graduated from An-Najah National University - Software Engineering</li>
     <li>Graduated from <a href="https://www.re-coded.com">Recoded</a> Frontend bootcamp</li>
   </ul>
+  <br><br><br>
 <div>
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
