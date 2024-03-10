@@ -1,5 +1,4 @@
 <h1> Hi There! 👋 </h1>
-  <img align="right" src="2.png" width="280"/>
 <p>
   <ul>
     <li>Frontend Engineer 🖥️</li>
